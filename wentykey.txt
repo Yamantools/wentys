@@ -1,2 +1,2 @@
 pss1='Wenty'
-print('HG')
+
