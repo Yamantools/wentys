@@ -1,4 +1,4 @@
-pss='C82SK-60KN6-0WGTJ'
+pss='WENTYxRULİNG'
 
 inp=input('Key Giriniz:')
 if pss==inp:
