@@ -1,9 +1,1 @@
-pss='F'
 
-inp=input('Key Giriniz:')
-if pss==inp:
-	print('Başarılı Bir Şekilde Giriş Yaptınız')
-	time.sleep(1)
-	os.system('clear')
-else:
-	exit('Key Yanlış Veya Süresi Dolmuş ')
