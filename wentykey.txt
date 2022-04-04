@@ -1,5 +1,5 @@
 
-pss='F'
+pss='C82SK-60KN6-0WGTJ'
 
 inp=input('Key Giriniz:')
 if pss==inp:
