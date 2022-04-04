@@ -1,11 +1,10 @@
 
+pss='JD0NK-FBJ2Z-XWİMU'
 
-pss='s'
-
-c=input('Key:')
-if c==pss:
-	print('Giriş Başarılı')
+inp=input('Key Giriniz:')
+if pss==inp:
+	print('Başarılı Bir Şekilde Giriş Yaptınız')
 	time.sleep(1)
 	os.system('clear')
 else:
-	exit('Keyiniz Yanlış veya Süresi Dolmuş ')
+	exit('Key Yanlış Veya Süresi Dolmuş ')
