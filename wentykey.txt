@@ -1,8 +1,11 @@
-pss='PJPBZ-JGDGN-XK8Z4'
 
+
+pss='PJPBZ-JGDGN-XK8Z4'
 
 c=input('Key:')
 if c==pss:
 	print('Giriş Başarılı')
+	time.sleep(1)
+	os.system('clear')
 else:
 	exit('Keyiniz Yanlış veya Süresi Dolmuş ')
