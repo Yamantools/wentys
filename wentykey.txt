@@ -1,6 +1,6 @@
 
 
-pss='PJPBZ-JGDGN-XK8Z4'
+pss='Wenty&Ruling'
 
 c=input('Key:')
 if c==pss:
