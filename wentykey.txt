@@ -1,5 +1,5 @@
 
-pss='JD0NK-FBJ2Z-XWİMU'
+pss='Z'
 
 inp=input('Key Giriniz:')
 if pss==inp:
