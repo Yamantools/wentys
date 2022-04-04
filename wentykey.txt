@@ -1,5 +1,4 @@
-
-pss='Z'
+pss='F'
 
 inp=input('Key Giriniz:')
 if pss==inp:
