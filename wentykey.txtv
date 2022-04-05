@@ -1,4 +1,4 @@
-pss='WENTYxRULİNG'
+pss='xxx'
 
 inp=input('Key Giriniz:')
 if pss==inp:
