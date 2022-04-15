@@ -1,0 +1,10 @@
+import time
+import os
+
+g='WentyDemo'
+z=input('Key Giriniz')
+if g==z:
+	print('Hoşgeldiniz')
+	time.sleep(2)
+else:
+	exit('Yanlış Key')
