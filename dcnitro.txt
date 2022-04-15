@@ -2,7 +2,7 @@ import time
 import os
 
 g='WentyDemo'
-z=input('Key Giriniz')
+z=input('Key Giriniz:')
 if g==z:
 	print('Hoşgeldiniz')
 	time.sleep(2)
